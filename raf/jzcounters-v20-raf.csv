@@ -1,0 +1,166 @@
+raf>,raf[style:fill]>,raf-type>,raf-img>,raf-sqn>,raf-wing>,raf-bomb?>,raf-bomb,raf-select,raf-combat,raf-tag?>,raf-tag[style:fill]>,raf-tag>,ID,BACK,raf-bomb,raf-select,raf-combat
+1,skyblue,He-111,raf_He-111.svg,I/KG 1,2,y,5,o,6,n,,,GE-He-111-I-KG1-2-001,y,5,+,7
+1,skyblue,He-111,raf_He-111.svg,II/KG 1,2,y,5,o,6,n,,,GE-He-111-II-KG1-2-002,y,5,+,7
+1,skyblue,He-111,raf_He-111.svg,I/KG 4,2,y,5,o,6,n,,,GE-He-111-I-KG4-2-003,y,5,+,7
+1,skyblue,He-111,raf_He-111.svg,II/KG 4,2,y,5,o,6,n,,,GE-He-111-II-KG4-2-004,y,5,+,7
+1,skyblue,He-111,raf_He-111.svg,I/KG 53,2,y,5,+,6,n,,,GE-He-111-I-KG53-2-005,y,5,o,7
+1,skyblue,He-111,raf_He-111.svg,II/KG 53,2,y,5,+,6,n,,,GE-He-111-II-KG53-2-006,y,5,o,7
+1,skyblue,He-111,raf_He-111.svg,III/KG 53,2,y,5,+,6,n,,,GE-He-111-III-KG53-2-007,y,5,o,7
+1,skyblue,He-111,raf_He-111.svg,KGr 100,2,y,5,+,6,n,,,GE-He-111-KGr100-2-008,y,5,o,7
+1,skyblue,He-111,raf_He-111.svg,I/KG 26,2,y,5,o,6,y,red,R,GE-He-111-I-KG26-2-009,y,5,+,7
+1,skyblue,He-111,raf_He-111.svg,III/KG 26,2,y,5,+,6,y,red,R,GE-He-111-III-KG26-2-010,y,5,o,7
+1,skyblue,He-111,raf_He-111.svg,I/KG 27,3,y,5,o,6,n,,,GE-He-111-I-KG27-3-011,y,5,+,7
+1,skyblue,He-111,raf_He-111.svg,II/KG 27,3,y,5,o,6,n,,,GE-He-111-II-KG27-3-012,y,5,+,7
+1,skyblue,He-111,raf_He-111.svg,III/KG 27,3,y,5,o,6,n,,,GE-He-111-III-KG27-3-013,y,5,+,7
+1,skyblue,He-111,raf_He-111.svg,I/KG 55,3,y,5,+,6,n,,,GE-He-111-I-KG55-3-014,y,5,o,7
+1,skyblue,He-111,raf_He-111.svg,II/KG 55,3,y,5,+,6,n,,,GE-He-111-II-KG55-3-015,y,5,o,7
+1,skyblue,He-111,raf_He-111.svg,III/KG 55,3,y,5,+,6,n,,,GE-He-111-III-KG55-3-016,y,5,o,7
+1,skyblue,Do-17,raf_Do-17.svg,III/KG 1,2,y,4,o,5,n,,,GE-Do-17-III-KG1-2-017,y,4,+,6
+1,skyblue,Do-17,raf_Do-17.svg,I/KG 2,2,y,4,o,5,n,,,GE-Do-17-I-KG2-2-018,y,4,+,6
+1,skyblue,Do-17,raf_Do-17.svg,II/KG 2,2,y,4,o,5,n,,,GE-Do-17-II-KG2-2-019,y,4,+,6
+1,skyblue,Do-17,raf_Do-17.svg,III/KG 2,2,y,4,o,5,n,,,GE-Do-17-III-KG2-2-020,y,4,+,6
+1,skyblue,Do-17,raf_Do-17.svg,I/KG 3,2,y,4,o,5,n,,,GE-Do-17-I-KG3-2-021,y,4,+,6
+1,skyblue,Do-17,raf_Do-17.svg,II/KG 3,2,y,4,+,5,n,,,GE-Do-17-II-KG3-2-022,y,4,o,6
+1,skyblue,Do-17,raf_Do-17.svg,III/KG 3,2,y,4,+,5,n,,,GE-Do-17-III-KG3-2-023,y,4,o,6
+1,skyblue,Do-17,raf_Do-17.svg,I/KG 76,2,y,4,+,5,n,,,GE-Do-17-I-KG76-2-024,y,4,o,6
+1,skyblue,Do-17,raf_Do-17.svg,III/KG 76,2,y,4,+,5,n,,,GE-Do-17-III-KG76-2-025,y,4,o,6
+1,skyblue,Do-17,raf_Do-17.svg,KuGr 606,2,y,4,+,5,y,red,R,GE-Do-17-KuGr606-2-026,y,4,o,6
+1,skyblue,Ju-88,raf_Ju-88.svg,III/KG 4,2,y,5,o,5,n,,,GE-Ju-88-III-KG4-2-027,y,5,+,6
+1,skyblue,Ju-88,raf_Ju-88.svg,II/G 76,2,y,5,+,5,n,,,GE-Ju-88-II-G76-2-028,y,5,o,6
+1,skyblue,Ju-88,raf_Ju-88.svg,I/KG 77,2,y,5,o,5,y,red,R,GE-Ju-88-I-KG77-2-029,y,5,+,6
+1,skyblue,Ju-88,raf_Ju-88.svg,II/KG 77,2,y,5,o,5,y,red,R,GE-Ju-88-II-KG77-2-030,y,5,+,6
+1,skyblue,Ju-88,raf_Ju-88.svg,III/KG 77,2,y,5,o,5,y,red,R,GE-Ju-88-III-KG77-2-031,y,5,+,6
+1,skyblue,Ju-88,raf_Ju-88.svg,I/KG 30,2,y,5,+,5,y,red,R,GE-Ju-88-I-KG30-2-032,y,5,o,6
+1,skyblue,Ju-88,raf_Ju-88.svg,III/KG 30,2,y,5,+,5,y,red,R,GE-Ju-88-III-KG30-2-033,y,5,o,6
+1,skyblue,Ju-88,raf_Ju-88.svg,I/LG 1,3,y,5,o,5,n,,,GE-Ju-88-I-LG1-3-034,y,5,+,6
+1,skyblue,Ju-88,raf_Ju-88.svg,II/LG 1,3,y,5,o,5,n,,,GE-Ju-88-II-LG1-3-035,y,5,+,6
+1,skyblue,Ju-88,raf_Ju-88.svg,III/LG 1,3,y,5,o,5,n,,,GE-Ju-88-III-LG1-3-036,y,5,+,6
+1,skyblue,Ju-88,raf_Ju-88.svg,I/KG 51,3,y,5,o,5,n,,,GE-Ju-88-I-KG51-3-037,y,5,+,6
+1,skyblue,Ju-88,raf_Ju-88.svg,II/KG 51,3,y,5,+,5,n,,,GE-Ju-88-II-KG51-3-038,y,5,o,6
+1,skyblue,Ju-88,raf_Ju-88.svg,III/KG 51,3,y,5,+,5,n,,,GE-Ju-88-III-KG51-3-039,y,5,o,6
+1,skyblue,Ju-88,raf_Ju-88.svg,I/KG 54,3,y,5,+,5,n,,,GE-Ju-88-I-KG54-3-040,y,5,o,6
+1,skyblue,Ju-88,raf_Ju-88.svg,II/KG 54,3,y,5,+,5,n,,,GE-Ju-88-II-KG54-3-041,y,5,o,6
+1,skyblue,Ju-88,raf_Ju-88.svg,KGr 806,3,y,5,+,5,n,,,GE-Ju-88-KGr806-3-042,y,5,o,6
+1,skyblue,Ju-87,raf_Ju-87.svg,II/SG 1,2,y,3,o,7,n,,,GE-Ju-87-II-SG1-2-043,y,3,+,8
+1,skyblue,Ju-87,raf_Ju-87.svg,IV/LG 1,2,y,3,+,7,n,,,GE-Ju-87-IV-LG1-2-044,y,3,o,8
+1,skyblue,Ju-87,raf_Ju-87.svg,I/SG 1,3,y,3,o,7,n,,,GE-Ju-87-I-SG1-3-045,y,3,+,8
+1,skyblue,Ju-87,raf_Ju-87.svg,III/SG 1,3,y,3,o,7,n,,,GE-Ju-87-III-SG1-3-046,y,3,+,8
+1,skyblue,Ju-87,raf_Ju-87.svg,I/SG 2,3,y,3,o,7,n,,,GE-Ju-87-I-SG2-3-047,y,3,+,8
+1,skyblue,Ju-87,raf_Ju-87.svg,II/SG 2,3,y,3,o,7,n,,,GE-Ju-87-II-SG2-3-048,y,3,+,8
+1,skyblue,Ju-87,raf_Ju-87.svg,I/SG 77,3,y,3,+,7,n,,,GE-Ju-87-I-SG77-3-049,y,3,o,8
+1,skyblue,Ju-87,raf_Ju-87.svg,II/SG 77,3,y,3,+,7,n,,,GE-Ju-87-II-SG77-3-050,y,3,o,8
+1,silver,Me-110,raf_Me-110.svg,II/LG 2,2,y,2,o,1,y,blue,*,GE-Me-110-II-LG2-2-051,y,2,+,2
+1,silver,Me-110,raf_Me-110.svg,EGr 210,2,y,3,+,1,y,blue,*,GE-Me-110-EGr210-2-052,y,3,o,2
+1,silver,Me-110,raf_Me-110.svg,I/ZG 26,2,y,2,o,2,n,,,GE-Me-110-I-ZG26-2-053,y,2,+,3
+1,silver,Me-110,raf_Me-110.svg,II/ZG 26,2,y,2,o,2,n,,,GE-Me-110-II-ZG26-2-054,y,2,+,3
+1,silver,Me-110,raf_Me-110.svg,III/ZG 26,2,y,2,+,2,n,,,GE-Me-110-III-ZG26-2-055,y,2,o,3
+1,silver,Me-110,raf_Me-110.svg,II/ZG 76,2,y,2,+,2,n,,,GE-Me-110-II-ZG76-2-056,y,2,o,3
+1,skyblue,Ju-87,raf_Ju-87.svg,III/SG 77,3,y,3,+,7,n,,,GE-Ju-87-III-SG77-3-057,y,2,o,8
+1,silver,Me-109,raf_Me-109.svg,III/JG 53,3,y,1,+,0,n,,,GE-Me-109-III-JG53-3-058,y,1,o,1
+1,silver,Me-110,raf_Me-110.svg,III/ZG 76,2,y,2,+,2,n,,,GE-Me-110-III-ZG76-2-059,y,2,o,3
+1,silver,Me-110,raf_Me-110.svg,I/ZG 26,3,y,2,o,2,n,,,GE-Me-110-I-ZG26-3-060,y,2,+,3
+1,silver,Me-110,raf_Me-110.svg,II/ZG 26,3,y,2,o,2,n,,,GE-Me-110-II-ZG26-3-061,y,2,+,3
+1,silver,Me-110,raf_Me-110.svg,V/LG 1,3,y,2,+,2,n,,,GE-Me-110-V-LG1-3-062,y,2,o,3
+1,silver,Me-109,raf_Me-109.svg,I/JG 3,2,y,1,o,0,n,,,GE-Me-109-I-JG3-2-063,y,1,+,1
+1,silver,Me-109,raf_Me-109.svg,II/JG 3,2,y,1,o,0,n,,,GE-Me-109-II-JG3-2-064,y,1,+,1
+1,silver,Me-109,raf_Me-109.svg,III/JG 3,2,y,1,o,0,n,,,GE-Me-109-III-JG3-2-065,y,1,+,1
+1,silver,Me-109,raf_Me-109.svg,I/JG 26,2,y,1,o,0,n,,,GE-Me-109-I-JG26-2-066,y,1,+,1
+1,silver,Me-109,raf_Me-109.svg,II/JG 26,2,y,1,o,0,n,,,GE-Me-109-II-JG26-2-067,y,1,+,1
+1,silver,Me-109,raf_Me-109.svg,III/JG 26,2,y,1,o,0,n,,,GE-Me-109-III-JG26-2-068,y,1,+,1
+1,silver,Me-109,raf_Me-109.svg,I/JG 51,2,y,1,o,0,n,,,GE-Me-109-I-JG51-2-069,y,1,+,1
+1,silver,Me-109,raf_Me-109.svg,II/JG 51,2,y,1,+,0,n,,,GE-Me-109-II-JG51-2-070,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,III/JG 51,2,y,1,+,0,n,,,GE-Me-109-III-JG51-2-071,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,IV/JG 51,2,y,1,+,0,n,,,GE-Me-109-IV-JG51-2-072,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,I/JG 52,2,y,1,+,0,n,,,GE-Me-109-I-JG52-2-073,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,II/JG 52,2,y,1,+,0,n,,,GE-Me-109-II-JG52-2-074,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,I/JG 54,2,y,1,+,0,n,,,GE-Me-109-I-JG54-2-075,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,II/JG 54,2,y,1,+,0,n,,,GE-Me-109-II-JG54-2-076,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,III/JG 54,2,y,1,+,0,n,,,GE-Me-109-III-JG54-2-077,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,I/LG 26,2,y,1,+,0,n,,,GE-Me-109-I-LG26-2-078,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,I/JG 26,3,y,1,o,0,n,,,GE-Me-109-I-JG26-3-079,y,1,+,1
+1,silver,Me-109,raf_Me-109.svg,II/JG 2,3,y,1,o,0,n,,,GE-Me-109-II-JG2-3-080,y,1,+,1
+1,burlywood,Gladiator,raf_Gladiator.svg,247,1/10,n,,+,-1,n,,,BR-Gladiator-247-1-10-081,y,,o,-2
+1,burlywood,Blenheim,raf_Blenheim.svg,236,1/10,n,,o,0,n,,,BR-Blenheim-236-1-10-082,y,,+,-1
+1,burlywood,Blenheim,raf_Blenheim.svg,604,4/10,n,,+,0,n,,,BR-Blenheim-604-4-10-083,y,,o,-1
+1,burlywood,Blenheim,raf_Blenheim.svg,25,5/11,n,,o,0,n,,,BR-Blenheim-25-5-11-084,y,,+,-1
+1,burlywood,Blenheim,raf_Blenheim.svg,600,6/11,n,,+,0,n,,,BR-Blenheim-600-6-11-085,y,,o,-1
+1,burlywood,Blenheim,raf_Blenheim.svg,23,3/12,n,,o,0,n,,,BR-Blenheim-23-3-12-086,y,,+,-1
+1,burlywood,Spitfire,raf_Spitfire.svg,152,4/10,n,,+,3,n,,,BR-Spitfire-152-4-10-087,y,,o,3
+1,burlywood,Spitfire,raf_Spitfire.svg,609,4/10,n,,o,3,n,,,BR-Spitfire-609-4-10-088,y,,+,3
+1,burlywood,Spitfire,raf_Spitfire.svg,234,4/10,n,,+,3,n,,,BR-Spitfire-234-4-10-089,y,,o,3
+1,burlywood,Spitfire,raf_Spitfire.svg,43,1/11,n,,o,3,n,,,BR-Spitfire-43-1-11-090,y,,+,3
+1,burlywood,Spitfire,raf_Spitfire.svg,266,1/11,n,,+,3,n,,,BR-Spitfire-266-1-11-091,y,,o,3
+1,burlywood,Spitfire,raf_Spitfire.svg,602,1/11,n,,o,3,y,red,R,BR-Spitfire-602-1-11-092,y,,+,3
+1,burlywood,Spitfire,raf_Spitfire.svg,64,2/11,n,,+,3,n,,,BR-Spitfire-64-2-11-093,y,,o,3
+1,burlywood,Spitfire,raf_Spitfire.svg,72,2/11,n,,o,3,y,red,R,BR-Spitfire-72-2-11-094,y,,+,3
+1,burlywood,Spitfire,raf_Spitfire.svg,54,6/11,n,,+,3,n,,,BR-Spitfire-54-6-11-095,y,,o,3
+1,burlywood,Spitfire,raf_Spitfire.svg,65,6/11,n,,o,3,n,,,BR-Spitfire-65-6-11-096,y,,+,3
+1,burlywood,Spitfire,raf_Spitfire.svg,74,6/11,n,,+,3,n,,,BR-Spitfire-74-6-11-097,y,,o,3
+1,burlywood,Spitfire,raf_Spitfire.svg,603,6/11,n,,o,3,y,red,R,BR-Spitfire-603-6-11-098,y,,+,3
+1,burlywood,Spitfire,raf_Spitfire.svg,610,7/11,n,,+,3,y,red,R,BR-Spitfire-610-7-11-099,y,,o,3
+1,burlywood,Spitfire,raf_Spitfire.svg,66,1/12,n,,o,3,n,,,BR-Spitfire-66-1-12-100,y,,+,3
+1,burlywood,Spitfire,raf_Spitfire.svg,19,2/12,n,,+,3,n,,,BR-Spitfire-19-2-12-101,y,,o,3
+1,burlywood,Hurricane,raf_Hurricane.svg,238,1/10,n,,o,2,n,,,BR-Hurricane-238-1-10-102,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,87,3/10,n,,+,2,n,,,BR-Hurricane-87-3-10-103,y,,o,2
+1,burlywood,Hurricane,raf_Hurricane.svg,213,3/10,n,,o,2,n,,,BR-Hurricane-213-3-10-104,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,249,4/10,n,,+,2,n,,,BR-Hurricane-249-4-10-105,y,,o,2
+1,burlywood,Hurricane,raf_Hurricane.svg,145,1/11,n,,o,2,y,red,R,BR-Hurricane-145-1-11-106,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,601,1/11,n,,+,2,n,,,BR-Hurricane-601-1-11-107,y,,o,2
+1,burlywood,Hurricane,raf_Hurricane.svg,111,2/11,n,,o,2,n,,,BR-Hurricane-111-2-11-108,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,615,2/11,n,,+,2,n,,,BR-Hurricane-615-2-11-109,y,,o,2
+1,burlywood,Hurricane,raf_Hurricane.svg,1,3/11,n,,o,2,n,,,BR-Hurricane-1-3-11-110,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,RCAF,3/11,n,,+,2,y,red,R,BR-Hurricane-RCAF-3-11-111,y,,o,2
+1,burlywood,Hurricane,raf_Hurricane.svg,303,3/11,n,,o,2,y,red,R,BR-Hurricane-303-3-11-112,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,17,4/11,n,,+,2,n,,,BR-Hurricane-17-4-11-113,y,,o,2
+1,burlywood,Hurricane,raf_Hurricane.svg,85,4/11,n,,o,2,n,,,BR-Hurricane-85-4-11-114,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,257,4/11,n,,+,2,n,,,BR-Hurricane-257-4-11-115,y,,o,2
+1,burlywood,Hurricane,raf_Hurricane.svg,56,5/11,n,,o,2,n,,,BR-Hurricane-56-5-11-116,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,151,5/11,n,,+,2,n,,,BR-Hurricane-151-5-11-117,y,,o,2
+1,burlywood,Spitfire,raf_Spitfire.svg,616,2/11,n,,+,3,y,red,R,BR-Spitfire-616-2-11-118,y,,o,3
+1,burlywood,Spitfire,raf_Spitfire.svg,41,6/11,n,,+,3,y,red,R,BR-Spitfire-41-6-11-119,y,,o,3
+1,burlywood,Spitfire,raf_Spitfire.svg,222,6/11,n,,o,3,y,red,R,BR-Spitfire-222-6-11-120,y,,+,3
+1,burlywood,Hurricane,raf_Hurricane.svg,32,7/11,n,,o,2,n,,,BR-Hurricane-32-7-11-121,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,501,7/11,n,,+,2,n,,,BR-Hurricane-501-7-11-122,y,,o,2
+1,burlywood,Hurricane,raf_Hurricane.svg,242,1/12,n,,o,2,n,,,BR-Hurricane-242-1-12-123,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,310,2/12,n,,+,2,n,,,BR-Hurricane-310-2-12-124,y,,o,2
+1,burlywood,Hurricane,raf_Hurricane.svg,229,3/12,n,,o,2,n,,,BR-Hurricane-229-3-12-125,y,,+,2
+1,burlywood,Hurricane,raf_Hurricane.svg,253,2/11,n,,+,2,n,,,BR-Hurricane-253-2-11-126,y,,o,2
+1,burlywood,Hurricane,raf_Hurricane.svg,79,7/11,n,,o,2,n,,,BR-Hurricane-79-7-11-127,y,,+,2
+bg>,bg[style:fill]>,bg-text-*[style:fill]>,bg-img,bg-img?,bg-text-1,bg-text-1?,bg-text-2a,bg-text-2b,bg-text-2,bg-text-2?,bg-text-3a,bg-text-3b,bg-text-3c,bg-text-3,bg-text-3?,ID,BACK,ID,bg-img,bg-img?,bg-text-1,bg-text-1?,bg-text-2a,bg-text-2b,bg-text-2,bg-text-2?,bg-text-3a,bg-text-3b,bg-text-3c,bg-text-3,bg-text-3?
+1,red,white,,n,,n,,,,n,,DETECTN,,\nDETECTN\n,y,MKR-128,y,MKR-128r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,,,,n,,HOUR,,\nHOUR\n,y,MKR-129,y,MKR-129r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,,,,n,GREEN,PILOTS,-2,GREEN\nPILOTS\n-2,y,MKR-130,y,MKR-130r,,n,,n,,,,n,GREEN,PILOTS,-1,GREEN\nPILOTS\n-1,y
+1,red,white,,n,,n,,,,n,GREEN,PILOTS,-2,GREEN\nPILOTS\n-2,y,MKR-131,y,MKR-131r,,n,,n,,,,n,GREEN,PILOTS,-1,GREEN\nPILOTS\n-1,y
+1,red,white,,n,,n,DAMAGE,A,DAMAGE\nA,y,,,,,n,MKR-132,y,MKR-132r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,DAMAGE,B,DAMAGE\nB,y,,,,,n,MKR-133,y,MKR-133r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,DAMAGE,C,DAMAGE\nC,y,,,,,n,MKR-134,y,MKR-134r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,DAMAGE,D,DAMAGE\nD,y,,,,,n,MKR-135,y,MKR-135r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,DAMAGE,E,DAMAGE\nE,y,,,,,n,MKR-136,y,MKR-136r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,,,,n,GREEN,PILOTS,-2,GREEN\nPILOTS\n-2,y,MKR-137,y,MKR-137r,,n,,n,,,,n,GREEN,PILOTS,-1,GREEN\nPILOTS\n-1,y
+1,red,white,,n,,n,,,,n,GREEN,PILOTS,-2,GREEN\nPILOTS\n-2,y,MKR-138,y,MKR-138r,,n,,n,,,,n,GREEN,PILOTS,-1,GREEN\nPILOTS\n-1,y
+1,red,white,,n,,n,,,,n,GREEN,PILOTS,-2,GREEN\nPILOTS\n-2,y,MKR-139,y,MKR-139r,,n,,n,,,,n,GREEN,PILOTS,-1,GREEN\nPILOTS\n-1,y
+1,red,white,,n,,n,DAMAGE,A,DAMAGE\nA,y,,,,,n,MKR-140,y,MKR-140r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,DAMAGE,B,DAMAGE\nB,y,,,,,n,MKR-141,y,MKR-141r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,DAMAGE,C,DAMAGE\nC,y,,,,,n,MKR-142,y,MKR-142r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,DAMAGE,D,DAMAGE\nD,y,,,,,n,MKR-143,y,MKR-143r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,DAMAGE,E,DAMAGE\nE,y,,,,,n,MKR-144,y,MKR-144r,,n,,n,,,,n,,,,,n
+raf>,raf[style:fill]>,raf-type>,raf-img>,raf-sqn>,raf-wing>,raf-bomb?>,raf-bomb,raf-select,raf-combat,raf-tag?>,raf-tag[style:fill]>,raf-tag>,ID,BACK,raf-bomb,raf-select,raf-combat
+1,silver,Me-109,raf_Me-109.svg,III/JG 2,3,y,1,o,0,n,,,GE-Me-109-III-JG2-3-145,y,1,+,1
+1,silver,Me-109,raf_Me-109.svg,I/JG 27,3,y,1,o,0,n,,,GE-Me-109-I-JG27-3-146,y,1,+,1
+1,silver,Me-109,raf_Me-109.svg,II/JG 27,3,y,1,+,0,n,,,GE-Me-109-II-JG27-3-147,y,1,o,1
+bg>,bg[style:fill]>,bg-text-*[style:fill]>,bg-img,bg-img?,bg-text-1,bg-text-1?,bg-text-2a,bg-text-2b,bg-text-2,bg-text-2?,bg-text-3a,bg-text-3b,bg-text-3c,bg-text-3,bg-text-3?,ID,BACK,ID,bg-img,bg-img?,bg-text-1,bg-text-1?,bg-text-2a,bg-text-2b,bg-text-2,bg-text-2?,bg-text-3a,bg-text-3b,bg-text-3c,bg-text-3,bg-text-3?
+1,red,black,raf_radar.svg,y,,n,,,,n,,,RADAR,\n\nRADAR,y,MKR-148,y,MKR-148r,,n,,n,,,,n,,,,,n
+1,red,black,raf_airfields.svg,y,,n,,,,n,,,AIRFIELDS,\n\nAIRFIELDS,y,MKR-149,y,MKR-149r,,n,,n,,,,n,,,,,n
+1,red,black,raf_ports.svg,y,,n,,,,n,,,PORTS,\n\nPORTS,y,MKR-150,y,MKR-150r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,,,,n,VICTORY,POINTS,+,VICTORY\nPOINTS\n+,y,MKR-151,y,MKR-151r,,n,,n,,,,n,VICTORY,POINTS,-,VICTORY\nPOINTS\n-,y
+1,red,white,,n,,n,,,,n,,DAY,,\nDAY\n,y,MKR-152,y,MKR-152r,,n,,n,,,,n,LF3,to,LF2,LF3\nto\nLF2,y
+raf>,raf[style:fill]>,raf-type>,raf-img>,raf-sqn>,raf-wing>,raf-bomb?>,raf-bomb,raf-select,raf-combat,raf-tag?>,raf-tag[style:fill]>,raf-tag>,ID,BACK,raf-bomb,raf-select,raf-combat
+1,silver,Me-109,raf_Me-109.svg,III/JG 27,3,y,1,+,0,n,,,GE-Me-109-III-JG27-3-153,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,I/JG 53,3,y,1,+,0,n,,,GE-Me-109-I-JG53-3-154,y,1,o,1
+1,silver,Me-109,raf_Me-109.svg,II/JG 53,3,y,1,+,0,n,,,GE-Me-109-II-JG53-3-155,y,1,o,1
+bg>,bg[style:fill]>,bg-text-*[style:fill]>,bg-img,bg-img?,bg-text-1,bg-text-1?,bg-text-2a,bg-text-2b,bg-text-2,bg-text-2?,bg-text-3a,bg-text-3b,bg-text-3c,bg-text-3,bg-text-3?,ID,BACK,ID,bg-img,bg-img?,bg-text-1,bg-text-1?,bg-text-2a,bg-text-2b,bg-text-2,bg-text-2?,bg-text-3a,bg-text-3b,bg-text-3c,bg-text-3,bg-text-3?
+1,red,white,,n,,n,SEALION,PREP,SEALION\nPREP,y,,,,,n,MKR-156,y,MKR-156r,,n,,n,SEALION,D-DAY,SEALION\nD-DAY,y,,,,,n
+1,red,black,raf_industry.svg,y,,n,,,,n,,,INDUSTRY,\n\nINDUSTRY,y,MKR-157,y,MKR-157r,,n,,n,,,,n,,,,,n
+1,red,black,raf_cities.svg,y,,n,,,,n,,,CITIES,\n\nCITIES,y,MKR-158,y,MKR-158r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,GERMAN,EFFORT,GERMAN\nEFFORT,y,,,,,n,MKR-159,y,MKR-159r,,n,,n,,,,n,,,,,n
+1,red,white,,n,,n,,,,n,,WEATHER,,\nWEATHER\n,y,MKR-160,y,MKR-160r,,n,,n,,,,n,,,,,n

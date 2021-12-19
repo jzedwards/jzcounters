@@ -1,0 +1,147 @@
+bg>,bg-img?,@,target-no,target-text,target-type,target-wing,target-sv,target-ocv,target-me109s,target-secondary,target-secondary-type,target-radar-nets,target-enroute,target-inrange,target-luftlotte,BACK,bg-img
+1,n,target,1,Worth,Radar Station,4/10,3,0,Yes,Bournemouth,Port,"2,3","4/10","3/10, 1/11","3",y,raf-cards-target-rear.jpg
+1,n,target,2,Hornchurch,Airfield,6/11,3,4,Yes,Faversham,Industry,"6,7","6/11","3/11,5/11,7/11,Lon","2",y,raf-cards-target-rear.jpg
+1,n,target,3,North Weald,Airfield,5/11,3,4,Yes,Southend,City,"6,7","5/11,6/11","3/11,4/11,London","2",y,raf-cards-target-rear.jpg
+1,n,target,4,Tangmere,Airfield,1/11,3,2,Yes,Farnborough,City,"3,4","1/11","4/10,2/11","2",y,raf-cards-target-rear.jpg
+1,n,target,5,Poling,Radar Station,1/11,2,0,Yes,Portsmouth,Port,"2,3,4","1/11","4/10,2/11","3",y,raf-cards-target-rear.jpg
+1,n,target,6,Portsmouth,Port,1/11,2,2,Yes,Southampton,Industry,"2,3","1/11","4/10,2/11","3",y,raf-cards-target-rear.jpg
+1,n,target,7,Middle Wallop,Airfield,4/11,2,4,No,Oxford,City,"2,3","4/10","3/10,1/11,3/11","3",y,raf-cards-target-rear.jpg
+1,n,target,8,Debden,Airfield,4/11,2,4,No,Dunwich,Radar Station,"6,7,8","4/11,5/11","6/11,1/12,2/12,Lon","2",y,raf-cards-target-rear.jpg
+1,n,target,9,Kenley,Airfield,2/11,2,4,Yes,Beachy Head,Radar Station,"4,5","2/11","1/11,7/11,London","2",y,raf-cards-target-rear.jpg
+1,n,target,10,Weymouth,Port,4/10,3,0,Yes,Worth,Radar Station,"1,2","4/10","1/10,3/10","3",n,raf-cards-target-rear.jpg
+1,n,target,11,Biggin Hill,Airfield,7/11,3,6,Yes,London,City,"4,5","7/11, London","2/11,3/11,6/11","2",n,raf-cards-target-rear.jpg
+1,n,target,12,Biggin Hill,Airfield,7/11,3,6,Yes,London,City,"4,5","7/11, London","2/11,3/11,6/11","2",n,raf-cards-target-rear.jpg
+1,n,target,13,Dover,Port,6/11,1,2,Yes,Hornchurch,Airfield,"5,6","6/11","7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,14,Biggin Hill,Airfield,7/11,3,6,Yes,London,City,"4,5","7/11, London","2/11,3/11,6/11","2",n,raf-cards-target-rear.jpg
+1,n,target,15,Biggin Hill,Airfield,7/11,3,4,Yes,,Military Base,"4,5","7/11","2/11,6/11,London","2",n,raf-cards-target-rear.jpg
+1,n,target,16,Southend,City,5/11,3,2,Yes,Walton,Radar Station,"6,7","5/11","4/11,6/11","2",n,raf-cards-target-rear.jpg
+1,n,target,17,North Weald,Airfield,5/11,2,4,Yes,,Military Base,"6,7","5/11","3/11,4/11,6/11,Lon","2",n,raf-cards-target-rear.jpg
+1,n,target,18,Foreness,Radar Station,6/11,3,0,Yes,Sheerness,Port,"5,6,7","6/11","5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,19,Hornchurch,Airfield,6/11,3,4,Yes,Rochester,Industry,"6,7","6/11","3/11,5/11,7/11,Lon","2",n,raf-cards-target-rear.jpg
+1,n,target,20,Hornchurch,Airfield,6/11,3,4,Yes,Canterbury,Industry,"6,7","6/11","5/11,7/11,London","2",n,raf-cards-target-rear.jpg
+1,n,target,21,Plymouth,Port,1/10,1,0,Yes,West Prawle,Radar Station,"1,2","1/10","None","3",n,raf-cards-target-rear.jpg
+1,n,target,22,Yeovil,Industry,1/10,2,2,Yes,St Eval,Airfield,"1,2","1/10","3/10,4/10","3",n,raf-cards-target-rear.jpg
+1,n,target,23,Middle Wallop,Airfield,4/10,1,4,No,Oxford,City,"2,3","4/10","3/10,1/11,3/11","3",n,raf-cards-target-rear.jpg
+1,n,target,24,Weymouth,Port,4/10,2,0,Yes,Worth,Radar Station,"1,2","4/10","1/10,3/10","3",n,raf-cards-target-rear.jpg
+1,n,target,25,Tangmere,Airfield,1/11,1,2,Yes,Portsmouth,Port,"3,4","1/11","4/10,2/11","2",n,raf-cards-target-rear.jpg
+1,n,target,26,Northolt,Airfield,3/11,1,8,No,Stanmore,Headquarters,"6,7","3/11,6/11,London","2/11,4/11,5/11,7/11,2/12","2",n,raf-cards-target-rear.jpg
+1,n,target,27,Southampton,Port,1/11,2,2,Yes,Poling,Radar Station,"2,3","1/11","4/10,2/11","3",n,raf-cards-target-rear.jpg
+1,n,target,28,Debden,Airfield,4/11,1,6,No,Luton,Industry,"6,7","4/11,5/11","3/11,6/11,2/12,Lon","2",n,raf-cards-target-rear.jpg
+1,n,target,29,Beachy Head,Radar Station,2/11,1,0,Yes,Brighton,Port,"4,5","2/11","1/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,30,Rye,Radar Station,7/11,2,0,Yes,Eastborne,Port,"4,5,6","7/11","2/11,6/11","2",n,raf-cards-target-rear.jpg
+1,n,target,31,Brooklands,Industry,3/11,1,8,No,Uxbridge,Headquarters,"3,4","1/11,2/11,3/11","4/11,5/11,6/11,7/11,Lon","2",n,raf-cards-target-rear.jpg
+1,n,target,32,Duxford,Airfield,2/12,1,6,No,Northampton,City,"7,8","4/11,5/11,2/12","3/11,6/11,1/12,3/12","2",n,raf-cards-target-rear.jpg
+1,n,target,33,Kenley,Airfield,2/11,3,4,No,Brighton,Port,"3,4,5","2/11","1/11,7/11,London","2",n,raf-cards-target-rear.jpg
+1,n,target,34,Filton,Airfield,3/10,1,6,No,Cardiff,Port,"1,2","3/10,4/10","1/10","3",n,raf-cards-target-rear.jpg
+1,n,target,35,Coltishall,Airfield,1/12,1,2,No,Norwich,Industry,"6,7,8","1/12","4/11,2/12","2",n,raf-cards-target-rear.jpg
+1,n,target,36,North Weald,Airfield,5/11,1,2,Yes,Walton,Radar Station,"6,7","5/11","4/11,6/11,London","2",n,raf-cards-target-rear.jpg
+1,n,target,37,Foreness,Radar Station,6/11,2,0,Yes,Dover,Port,"5,6","6/11","5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,38,Bristol,Industry,3/10,1,6,No,Box,Headquarters,"2,3","3/10,4/10","3/10,4/10","3",n,raf-cards-target-rear.jpg
+1,n,target,39,Hornchurch,Airfield,6/11,1,4,Yes,Canterbury,Industry,"6,7","6/11","5/11,7/11,London","2",n,raf-cards-target-rear.jpg
+1,n,target,40,Rochester,Industry,6/11,1,2,Yes,Foreness,Radar Station,"6,7","6/11","5/11,7/11,London","2",n,raf-cards-target-rear.jpg
+1,n,target,41,Bristol,Industry,3/10,2,6,No,Cardiff,Port,"1,2","3/10,4/10","1/10","3",n,raf-cards-target-rear.jpg
+1,n,target,42,Farnborough,City,1/11,1,4,Yes,Tangmere,Airfield,"3,4","1/11","4/10,2/11,3/11,Lon","2",n,raf-cards-target-rear.jpg
+1,n,target,43,Southampton,Industry,1/11,3,2,Yes,Portsmouth,Port,"2,3","1/11","4/10,2/11","3",n,raf-cards-target-rear.jpg
+1,n,target,44,Brighton,Port,2/11,1,2,Yes,Kenley,Airfield,"3,4","2/11","1/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,45,London,City,7/11,3,6,Yes,Biggin Hill,Airfield,"5,6","6/11,7/11,London","2/11,3/11,5/11","2",n,raf-cards-target-rear.jpg
+1,n,target,46,London,City,7/11,3,6,Yes,Biggin Hill,Airfield,"5,6","6/11,7/11,London","2/11,3/11,5/11","2",n,raf-cards-target-rear.jpg
+1,n,target,47,Eastbourne,Port,5/11,1,2,Yes,Biggin Hill,Airfield,"4,5","7/11","2/11,6/11","2",n,raf-cards-target-rear.jpg
+1,n,target,48,London,City,5/11,3,6,Yes,North Weald,Airfield,"6,7","5/11,6/11,London","3/11,4/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,49,London,City,5/11,3,4,Yes,Southend,City,"6,7","5/11,6/11,London","3/11,4/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,50,London,City,6/11,3,4,Yes,Faversham,Industry,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,51,London,City,6/11,3,4,Yes,Hornchurch,Airfield,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,52,London,City,6/11,3,4,Yes,Hornchurch,Airfield,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,53,London,City,6/11,3,4,Yes,Rochester,Industry,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,54,London,City,6/11,3,4,Yes,Rochester,Industry,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,55,London,City,6/11,3,4,Yes,Rochester,Industry,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,56,London,City,6/11,3,4,Yes,Rochester,Industry,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,57,London,City,6/11,3,6,Yes,London,Industry,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,58,London,City,6/11,3,6,Yes,London,Industry,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,59,London,City,6/11,3,6,Yes,London,Industry,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,60,London,City,6/11,2,4,Yes,Sheerness,Port,"6,7","6/11,London","2/11,3/11,5/11,7/11","2",n,raf-cards-target-rear.jpg
+1,n,target,,,,,,,,,,"","","","",n,raf-cards-target-rear.jpg
+1,n,target,,,,,,,,,,"","","","",n,raf-cards-target-rear.jpg
+1,n,target,,,,,,,,,,"","","","",n,raf-cards-target-rear.jpg
+bg>,bg-img?,@,force-no,force-major,force-minor,force-text-1,force-text-2,BACK,bg-img
+1,n,force,61,6,4,Ju 88\nJu 88\nJu 88\nHe 111\nMe 109\nHe 111,He 111\nDo 17\nDo 17\nMe 109\nDo 17\nJu 88,y,raf-cards-force-rear.jpg
+1,n,force,62,4,2,He 111\nHe 111\nMe 109\nHe 111\nJu 88\nJu 88,Me 109\nJu 88\nHe 111\nHe 111\nMe 109\nHe 111,y,raf-cards-force-rear.jpg
+1,n,force,63,4,2,Ju 88\nJu 88\nMe 109\nJu 87\nJu 87\nMe 109,Ju 87\nHe 111\nMe 109\nHe 111\nHe 111\nMe 109,y,raf-cards-force-rear.jpg
+1,n,force,64,6,4,Do 17\nMe 110\nDo 17\nDo 17\nMe 109\nJu 88,Ju 88\nMe 109\nDo 17\nDo 17\nMe 109\nJu 88,y,raf-cards-force-rear.jpg
+1,n,force,65,5,3,Me 109\nJu 87\nJu 87\nMe 109\nJu 87\nMe 109,Do 17\nJu 88\nMe 110\nJu 88\nMe 109\nJu 88,y,raf-cards-force-rear.jpg
+1,n,force,66,6,1,Do 17\nMe 109\nDo 17\nDo 17\nMe 109\nHe 111,Me 109\nHe 111\nHe 111\nMe 110\nJu 88\nMe 110,y,raf-cards-force-rear.jpg
+1,n,force,67,5,3,He 111\nMe 109\nHe 111\nMe 109\nHe 111\nMe 109,He 111\nMe 109\nHe 111\nHe 111\nMe 109\nJu 88,y,raf-cards-force-rear.jpg
+1,n,force,68,8,1,Me 109\nHe 111\nMe 109\nHe 111\nMe 109\nHe 111,Me 109\nJu 87\nMe 109\nJu 87\nMe 109\nJu 87,y,raf-cards-force-rear.jpg
+1,n,force,69,9,2,Me 109\nMe 109\nMe 109\nJu 88\nMe 110\nMe 110,Me 110\nMe 110\nMe 110\nJu 88\nMe 110\nMe 109,y,raf-cards-force-rear.jpg
+1,n,force,70,7,2,Me 110\nHe 111\nMe 109\nHe 111\nMe 109\nHe 111,Me 110\nHe 111\nMe 109\nHe 111\nMe 109\nHe 111,n,raf-cards-force-rear.jpg
+1,n,force,71,12,2,Me 109\nDo 17\nMe 109\nDo 17\nMe 109\nDo 17,Me 109\nJu 88\nMe 109\nJu 88\nMe 109\nJu 88,n,raf-cards-force-rear.jpg
+1,n,force,72,5,3,Do 17\nMe 110\nDo 17\nMe 109\nDo 17\nMe 110,He 111\nMe 109\nHe 111\nMe 110\nHe 111\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,73,5,3,He 111\nMe 109\nHe 111\nMe 109\nHe 111\nMe 109,Do 17\nMe 109\nDo 17\nMe 109\nDo 17\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,74,7,1,Me 109\nJu 88\nMe 109\nMe 109\nJu 88\nMe 109,Ju 87\nMe 109\nMe 109\nJu 87\nMe 109\nJu 87,n,raf-cards-force-rear.jpg
+1,n,force,75,6,1,Ju 87\nMe 109\nMe 109\nJu 87\nMe 109\nJu 87,Me 109\nMe 109\nDo 17\nMe 109\nDo 17\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,76,8,2,Me 110\nJu 88\nMe 109\nJu 88\nMe 110\nMe 110,Do 17\nMe 109\nDo 17\nMe 109\nDo 17\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,77,10,2,Me 110\nJu 88\nMe 110\nJu 88\nMe 109\nMe 109,He 111\nMe 109\nHe 111\nMe 110\nHe 111\nMe 110,n,raf-cards-force-rear.jpg
+1,n,force,78,3,1,He 111\nMe 109\nHe 111\nMe 110\nMe 110\nHe 111,Me 110\nJu 88\nMe 109\nMe 109\nJu 88\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,79,11,1,Me 109\nHe 111\nMe 109\nMe 109\nHe 111\nMe 109,He 111\nMe 109\nJu 88\nMe 109\nJu 88\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,80,7,1,Me 109\nJu 87\nMe 109\nMe 109\nJu 87\nMe 109,Me 109\nJu 87\nMe 109\nMe 109\nJu 87\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,81,7,1,Me 109\nMe 109\nDo 17\nMe 110\nDo 17\nMe 110,Me 110\nDo 17\nMe 109\nJu 88\nMe 109\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,82,8,2,Me 109\nJu 88\nMe 109\nMe 109\nHe 111\nMe 110,Me 109\nHe 111\nMe 110\nMe 109\nHe 111\nMe 110,n,raf-cards-force-rear.jpg
+1,n,force,83,9,1,Me 110\nMe 109\nDo 17\nMe 110\nMe 109\nHe 111,Me 110\nMe 109\nHe 111\nMe 109\nMe 109\nHe 111,n,raf-cards-force-rear.jpg
+1,n,force,84,9,1,Me 109\nMe 109\nJu 88\nMe 109\nDo 17\nMe 109,Me 109\nDo 17\nMe 109\nDo 17\nMe 109\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,85,8,2,Me 109\nMe 109\nMe 109\nJu 87\nMe 109\nMe 110,Ju 87\nMe 109\nMe 110\nJu 87\nMe 109\nMe 110,n,raf-cards-force-rear.jpg
+1,n,force,86,10,1,Me 109\nMe 109\nHe 111\nMe 109\nMe 110\nHe 111,Me 110\nMe 110\nMe 109\nHe 111\nMe 109\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,87,6,1,Me 109\nMe 109\nHe 111\nMe 109\nMe 109\nMe 110,He 111\nMe 109\nMe 110\nHe 111\nMe 109\nMe 110,n,raf-cards-force-rear.jpg
+1,n,force,88,7,2,Me 109\nMe 109\nDo 17\nMe 109\nMe 109\nMe 109,Me 109\nDo 17\nMe 109\nMe 109\nMe 109\nDo 17,n,raf-cards-force-rear.jpg
+1,n,force,89,7,2,Me 109\nMe 109\nHe 111\nMe 109\nMe 109\nMe 109,Me 109\nHe 111\nMe 109\nMe 109\nMe 109\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,90,8,2,Me 109\nMe 109\nDo 17\nMe 110\nMe 110\nMe 109,Me 109\nMe 110\nDo 17\nMe 109\nMe 109\nMe 109,n,raf-cards-force-rear.jpg
+1,n,force,,,,\n\n\n\n\n,\n\n\n\n\n,n,raf-cards-force-rear.jpg
+1,n,force,,,,\n\n\n\n\n,\n\n\n\n\n,n,raf-cards-force-rear.jpg
+1,n,force,,,,\n\n\n\n\n,\n\n\n\n\n,n,raf-cards-force-rear.jpg
+1,n,force,,,,\n\n\n\n\n,\n\n\n\n\n,n,raf-cards-force-rear.jpg
+1,n,force,,,,\n\n\n\n\n,\n\n\n\n\n,n,raf-cards-force-rear.jpg
+1,n,force,,,,\n\n\n\n\n,\n\n\n\n\n,n,raf-cards-force-rear.jpg
+bg>,bg-img?,@,event-no,event-hours-light,event-hours-normal,event-hours-allout,event-light,event-normal,event-allout,BACK,bg-img
+1,n,event,91,12,4,3,Secondary Target (o),Secondary Target (All),Change Target Priorities (VPs),y,raf-cards-event-rear.jpg
+1,n,event,92,4,4,3,Secondary Target (o),Me110s Strafe,Change Target Priorities (Date),y,raf-cards-event-rear.jpg
+1,n,event,93,12,4,2,Secondary Target (+),Cloudy Weather Causes Abort (o),Radio Intelligence,y,raf-cards-event-rear.jpg
+1,n,event,94,10,5,5,Patrolling Squadrons Land,Change Target Priorities (Date),Patrolling Squadrons Land,y,raf-cards-event-rear.jpg
+1,n,event,95,12,5,2,Secondary Target (All),Change Target Priorities (VPs),Me 109s Close Escort (+),y,raf-cards-event-rear.jpg
+1,n,event,96,6,4,2,Secondary Target (All),Mass Rendezvous Failure (o),Secondary Target (o),y,raf-cards-event-rear.jpg
+1,n,event,97,10,4,1,Patrolling Squadrons Land,Sudden Weather Change,Secondary Target (o),y,raf-cards-event-rear.jpg
+1,n,event,98,10,4,2,Patrolling Squadrons Land,Me 109s Close Escort (+),Secondary Target (+),y,raf-cards-event-rear.jpg
+1,n,event,99,4,4,1,Secondary Target (All),Me110s Strafe,Secondary Target (+),y,raf-cards-event-rear.jpg
+1,n,event,100,2,4,2,Secondary Target (All),Cloudy Weather Causes Abort (+),Sudden Weather Change,n,raf-cards-event-rear.jpg
+1,n,event,101,12,5,1,Change Target Priorities (Date),Luftlotte 3  Gruppen to Luftlotte 2,Me 109s Close Escort (+),n,raf-cards-event-rear.jpg
+1,n,event,102,12,3,2,Change Target Priorities (VPs),Secondary Target (o),Me 109s Close Escort (o),n,raf-cards-event-rear.jpg
+1,n,event,103,12,3,2,Change Target Priorities (VPs),Secondary Target (+),Mass Rendezvous Failure (o),n,raf-cards-event-rear.jpg
+1,n,event,104,12,3,2,Luftlotte 3  Gruppen to Luftlotte 2,Radio Intelligence,Secondary Target (All),n,raf-cards-event-rear.jpg
+1,n,event,105,12,3,1,Luftlotte 3  Gruppen to Luftlotte 2,Me110s Strafe,Secondary Target (All),n,raf-cards-event-rear.jpg
+1,n,event,106,12,5,0,Increase Fighter Escort,Increase Fighter Escort,Secondary Target (All),n,raf-cards-event-rear.jpg
+1,n,event,107,10,3,0,Patrolling Squadrons Land,Mass Rendezvous Failure (+),Secondary Target (All),n,raf-cards-event-rear.jpg
+1,n,event,108,8,3,1,Patrolling Squadrons Land,Patrolling Squadron Catches Recon,Me 109s Close Escort (o),n,raf-cards-event-rear.jpg
+1,n,event,109,8,0,1,Patrolling Squadrons Land,Pathfinders,Me110s Strafe,n,raf-cards-event-rear.jpg
+1,n,event,110,8,3,1,Patrolling Squadrons Land,Squadrons Intercept Blenheims,Me110s Strafe,n,raf-cards-event-rear.jpg
+1,n,event,111,6,2,0,German Relief,Secondary Target (All),Me110s Strafe,n,raf-cards-event-rear.jpg
+1,n,event,112,4,2,1,German Relief,Secondary Target (All),Cloudy Weather Causes Abort (o),n,raf-cards-event-rear.jpg
+1,n,event,113,2,5,1,German Relief,Change Target Priorities (Date),Mass Rendezvous Failure (+),n,raf-cards-event-rear.jpg
+1,n,event,114,6,8,3,Me 109s Close Escort (o),Patrolling Squadrons Land,Luftlotte 3  Gruppen to Luftlotte 2,n,raf-cards-event-rear.jpg
+1,n,event,115,6,2,0,Me 109s Close Escort (+),Secondary Target (o),Snap Raid by ErprobungsGruppe 210,n,raf-cards-event-rear.jpg
+1,n,event,116,0,2,5,German Relief,Me 109s Close Escort (+),Patrolling Squadrons Land,n,raf-cards-event-rear.jpg
+1,n,event,117,4,8,1,Me 109s Close Escort (+),Patrolling Squadrons Land,Patrolling Squadron Catches Recon,n,raf-cards-event-rear.jpg
+1,n,event,118,12,1,3,Change Target Priorities (Date),Secondary Target (+),Raid on German Industries,n,raf-cards-event-rear.jpg
+1,n,event,119,8,0,1,Patrolling Squadrons Land,Secondary Target (All),Pathfinders,n,raf-cards-event-rear.jpg
+1,n,event,120,8,7,0,Patrolling Squadrons Land,Patrolling Squadrons Land,Cloudy Weather Causes Abort (+),n,raf-cards-event-rear.jpg
+1,n,event,121,6,7,3,Patrolling Squadrons Land,Patrolling Squadrons Land,Increase Fighter Escort,n,raf-cards-event-rear.jpg
+1,n,event,122,6,1,4,Patrolling Squadrons Land,Me 109s Close Escort (o),Patrolling Squadrons Land,n,raf-cards-event-rear.jpg
+1,n,event,123,6,6,2,Cloudy Weather Causes Abort (+),Patrolling Squadrons Land,Change Target Priorities (VPs),n,raf-cards-event-rear.jpg
+1,n,event,124,12,6,4,Me110s Strafe,Patrolling Squadrons Land,Patrolling Squadrons Land,n,raf-cards-event-rear.jpg
+1,n,event,125,4,6,2,Me 109s Close Escort (o),Patrolling Squadrons Land,German Relief,n,raf-cards-event-rear.jpg
+1,n,event,126,12,5,2,Pathfinders,Patrolling Squadrons Land,German Relief,n,raf-cards-event-rear.jpg
+1,n,event,127,4,4,4,Me110s Strafe,German Relief,Patrolling Squadrons Land,n,raf-cards-event-rear.jpg
+1,n,event,128,4,0,4,Cloudy Weather Causes Abort (o),Me 109s Close Escort (o),Patrolling Squadrons Land,n,raf-cards-event-rear.jpg
+1,n,event,129,2,4,3,Me110s Strafe,German Relief,Patrolling Squadrons Land,n,raf-cards-event-rear.jpg
+1,n,event,130,0,1,3,Secondary Target (+),German Relief,Patrolling Squadrons Land,n,raf-cards-event-rear.jpg
+1,n,event,131,12,5,3,Me 109s Close Escort (o),Me 109s Close Escort (+),Me 109s Close Escort (o),n,raf-cards-event-rear.jpg
+1,n,event,132,12,4,2,Me 109s Close Escort (+),Me 109s Close Escort (o),Me 109s Close Escort (+),n,raf-cards-event-rear.jpg
+1,n,event,133,4,4,2,Me 109s Close Escort (o),Me 109s Close Escort (+),Me 109s Close Escort (o),n,raf-cards-event-rear.jpg
+1,n,event,134,2,2,1,Me 109s Close Escort (+),Me 109s Close Escort (o),Me 109s Close Escort (+),n,raf-cards-event-rear.jpg
+1,n,event,,,,,,,,n,raf-cards-event-rear.jpg
