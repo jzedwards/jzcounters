@@ -1,10 +1,10 @@
-|File|blade-of-allectus|
+|Dir|blade-of-allectus|
 |---|---|
 |Game|Blade of Allectus (DragonQuest Adventure Two)|
 |BGG|https://rpggeek.com/rpgitem/52968/blade-allectus-dragonquest-adventure-two|
 |Version|1.0 release|
 |Last Updated|31-DEC-2021|
-|Created Date|30-DEC-2021|
+|Created Date|31-DEC-2021|
 |Author|John Edwards|
 |Web|https://www.simpubs.org|
 
