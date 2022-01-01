@@ -20,6 +20,7 @@ first release
 na
 
 # Known Issues/Future Developments
+need to add font Archivo
 
 # Release Notes
 ## v1.0
