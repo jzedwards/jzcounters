@@ -11,7 +11,8 @@
 ---
 
 # Overview
-Counters from Crescendo of Doom
+Squad Leader counters rework to SVG format.
+Uses Acumin Pro font for match. 1200ppi scans converted to SVG in Adobe Illustrator
 
 # New in this Version (v1.0)
 first release
@@ -20,7 +21,7 @@ first release
 na
 
 # Known Issues/Future Developments
-need to add font Archivo
+review free font Archivo as fallback
 
 # Release Notes
 ## v1.0
