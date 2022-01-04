@@ -5,7 +5,6 @@
 <g id="fill">
 </g>
 <g id="bg" display="none">
-	<rect x="-100" y="-100" display="inline" fill="#EAAA00" width="7000" height="1000"/>
 </g>
 <g id="counters_00000155831629897369998050000010902328751353074356_">
 	<g id="berki">
@@ -663,7 +662,7 @@
 </g>
 <g id="text">
 </g>
-<g id="guides">
+<g id="guides" display="none">
 </g>
 <g id="scratch">
 </g>
