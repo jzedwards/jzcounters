@@ -2,7 +2,7 @@
 |---|---|
 |Game|Squad Leader|
 |BGG|https://www.boardgamegeek.com|
-|Version|1.0 release|
+|Version|1.1 release|
 |Last Updated|12-FEB-2022|
 |Created Date|01-JAN-2022|
 |Author|John Edwards|
