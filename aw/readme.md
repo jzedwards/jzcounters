@@ -1,2 +1,2 @@
 # Atlantic Wall
-This folder contains graphics for SPI Atlantic Wall
+This folder contains SVG assets for SPI Atlantic Wall
